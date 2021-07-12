@@ -18,6 +18,8 @@
 public class MatrixAdd {
 	public int[][] matrixAdd(int[][] L, int[][] M) {
 		// your code goes here
+		//new code added
+		boolean matrix[][]=new boolean[][]; 
 		return new int[0][0];
 	}
 }

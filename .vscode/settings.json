@@ -1,0 +1,10 @@
+{
+    "java.project.sourcePaths": [
+        "12-matrixadd-Java",
+        ""
+    ],
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\MADHU\\Desktop\\junit-4.10.jar"
+    ]
+}
